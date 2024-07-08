@@ -124,7 +124,4 @@ Execute docker exec -it cassandra-container cqlsh -f /docker-entrypoint-initdb.d
 - **env.py**: All LLM configuration
 - **docker-compose.yml**: Docker compose to run all containers together
 
-### Sample UI Screen
-<div style="text-align:left;">
-    
-</div>
+
